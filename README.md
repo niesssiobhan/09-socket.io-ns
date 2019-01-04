@@ -8,7 +8,7 @@
 ### Links and Resources
 * [repo](http://xyz.com)
 * [travis](http://xyz.com)
-* [server](http://xyz.com)
+* [server](https://git.heroku.com/niess-09-lab.git)
 
 ### Collaborators 
 * Brent Woodward
