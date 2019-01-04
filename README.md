@@ -6,8 +6,8 @@
 ### Author: Siobhan Nies
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [repo](https://github.com/niesssiobhan/09-socket.io-ns)
+* [travis](https://travis-ci.com/niesssiobhan/09-socket.io-ns)
 * [server](https://git.heroku.com/niess-09-lab.git)
 
 ### Collaborators 
